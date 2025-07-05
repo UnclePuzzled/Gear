@@ -14,4 +14,7 @@ d is the pitch diameter
 
 To combine multiple gears, use the same module value for all gears.
 
+[![To releases](https://img.shields.io/badge/To--releases-green)](https://github.com/UnclePuzzled/Gear/releases)
+---
+
 ![v1.0](img/Gear1.0.jpg)
