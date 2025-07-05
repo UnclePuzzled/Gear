@@ -8,12 +8,10 @@ m = z / d
 
 Where:
 
-m is the module
-
-z is the number of teeth
-
-d is the pitch diameter
+m is the module in [mm]  
+z is the number of teeth  
+d is the pitch diameter  
 
 To combine multiple gears, use the same module value for all gears.
 
-![v1.0](images/1.png)
+![v1.0](img/Gear1.0.jpg)
